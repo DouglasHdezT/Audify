@@ -1,0 +1,9 @@
+[submodule "audify-mobile"]
+	path = audify-mobile
+	url = https://github.com/CarlosDubon/audify-mobile.git
+[submodule "audify-panel"]
+	path = audify-panel
+	url = https://github.com/CarlosDubon/audify-panel
+[submodule "audify-server"]
+	path = audify-server
+	url = https://github.com/CarlosDubon/audify-server
